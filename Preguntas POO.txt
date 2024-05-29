@@ -1,0 +1,228 @@
+1.	¿Cuál es la función de un sistema control de versiones?
+A)	Mantener un registro organizado y coherente de carpetas.
+B)	Mantener una lista de cambios organizados de diferentes archivos
+C)	Todas las anteriores.
+D)	Ninguna de las anteriores.
+ANSWER: C
+
+2.	¿Qué nos permiten los VCS que se encuentran alojados en la nube?
+A)	Tener un espacio de trabajo privado.
+B)	Publicar diferentes archivos para que otros los vean.
+C)	Trabajar en un solo proyecto con diferentes personas en cualquier parte.
+D)	Todas las anteriores.
+ANSWER: D
+
+3.	Selecciona la afirmación que es correcta.
+A)	El paradigma de programación tiene un único estilo y una única regla.
+B)	En el paradigma de la programación tenemos varios estilos y técnicas de programación.
+C)	En el paradigma de la programación se especifica cómo funciona un sistema.
+D)	Ninguna de las anteriores
+ANSWER: B
+
+4.	En la programación funcional se dice que:
+A)	Se centra en describir como se debe realizar una tarea.
+B)	Los programas se modelan como conjuntos de objetos.
+C)	Los programas consisten en hechos y reglas sobre un domino en específico.
+D)	Se centran en la evaluación matemática y evita conceptos de estado y mutación de datos.
+ANSWER: D
+
+5.	¿Que es necesario para poder ejecutar un código programado en java?
+A)	Un editor de texto
+B)	Tener JDK instalado
+C)	Tener VSCode instalado.
+D)	Ninguna de las anteriores.
+ANSWER: B
+
+
+
+
+
+6.	¿Cuál es el comando correcto para copilar un archivo llamado “programa” en java?
+A)	javac <programa.java>
+B)	java <programa>
+C)	javac –copilar <programa>
+D)	Todas las anteriores.
+ANSWER: A
+
+7.	¿Qué descripción es correcta si nos referimos a clases?
+A)	El molde para la creación de uno o varios objetos.
+B)	Una función especial.
+C)	Una forma de llamar a un atributo.
+D)	Una función especial que nos permite acceder a diferentes archivos.
+ANSWER: A
+
+8.	Los objetos son:
+A)	Funciones que nos permite almacenar datos.
+B)	La instancia de una clase.
+C)	Un método especial de java
+D)	Ninguna de las anteriores.
+ANSWER: B
+
+9.	Cuando hablamos de modelamiento de clases y objetos nos referimos a:
+A)	Diagramas UML
+B)	Estructurar las clases y su tipo de relación
+C)	Representar de manera gráfica las clases, atributos y métodos de todo el programa.
+D)	Todas las anteriores.
+ANSWER: D
+
+10.	Selecciona correctamente la opción que contenga 3 tipos de relaciones entre clases.
+A)	Asociación, Herencia, Unidireccional.
+B)	Bidireccional, Agregación composición.
+C)	Dependencia, Herencia, Asociación.
+ANSWER: C
+
+11.	¿Qué es el código limpio?
+A)	Es un término que se refiere a un estilo de programación fácil de entender.
+B)	Es cuando nuestro código no tiene ningún comentario.
+C)	Es cuando nuestro código se encuentra repleto de comentarios.
+D)	Ninguna de las opciones.
+ANSWER: A
+12.	Cuál de las siguientes opciones es un atributo de calidad de código:
+A)	Robustez.
+B)	 No reusabilidad.
+C)	Privacidad.
+D)	Ninguna.
+ANSWER: A
+
+13.	¿Cuál es una regla general en la estructura de un programa en java?
+A)	Que el nombre del archivo y la clase sean diferentes
+B)	Que el nombre del archivo y la clase sean el mismo
+C)	Que el nombre de la clase y el archivo sean todo en minúscula
+D)	Todas las anteriores son válidas.
+ANSWER: B
+
+14.	De la siguiente lista cuales no son datos primitivos:
+A)	int, short, boolean
+B)	String, Byte, Integer
+C)	long, char, double
+ANSWER: B
+
+15.	¿Cuál al es la clase que nos permite ingresar datos por consola?
+A)	Map
+B)	File
+C)	Scanner
+D)	Set
+ANSWER: C
+
+16.	¿Qué método en el lenguaje de programación Java se utiliza para imprimir datos en la consola estándar seguido de System.out…..? 
+A)	Println ()
+B)	Write ()
+C)	Display()
+D)	Output ()
+ANSWER: A
+
+
+
+
+
+
+17.	¿Qué podemos considerar una expresión?
+A)	Una situación que indica un error durante la compilación del código.
+B)	Un objeto que representa condición durante la ejecución de un código
+C)	Una función especial de java.
+D)	Un tipo de dato primitivo en java.
+ANSWER: B
+
+18.	¿Cuál de las siguiente es un tipo de excepción valido?
+A)	RuntimeException.
+B)	NumberException.
+C)	BooleanError.
+D)	Ninguna de las anteriores.
+ANSWER: A
+
+19.	¿Cuál de las siguientes afirmaciones es correcta cuando hablamos de encapsulamiento?
+A)	El encapsulamiento es un principio de la programación que consiste en ocultar los detalles internos de un objeto.
+B)	El encapsulamiento repudia el modularidad.
+C)	En java, el encapsulamiento no se logra con el uso del modificador public, solo con protected y private.
+D)	Todas las anteriores.
+ANSWER: A
+
+20.	¿Cuál de las siguientes opciones es una clase de encapsulamiento?
+A)	Debil
+B)	Medio
+C)	Fuerte
+D)	Ninguna de las anteriores.
+ANSWER: C
+
+21.	¿Cuál de las siguientes opciones es un tipo de constructor?
+A)	Constructor privado
+B)	Constructor estático
+C)	Constructor oculto
+D)	Todas las anteriores.
+ANSWER: A
+
+
+
+
+22.	¿En un constructor por defecto es necesario iniciar los atributos?
+A)	No
+B)	Talvez
+C)	Si
+ANSWER: C
+
+23.	¿Cuál de las siguientes afirmaciones es verdadera sobre los getters y setters en programación orientada a objetos?
+A)	Los gettersy setter solo pueden ser invocados dentro de su misma clase.
+B)	Los getters son métodos para leer valores de atributos privados y los setters son métodos para escribir valores de atributos privados en una clase.
+C)	Los getters y setters solo pueden ser declarados como públicos en una clase.
+D)	Todas las anteriores.
+ANSWER: B
+
+24.	¿La implementación de getters y setters en java la usamos mucho más cuando los atributos de la clase son de tipo?
+A)	Public
+B)	Private
+C)	Ninguna
+ANSWER: B
+
+25.	¿Cuál de las siguientes afirmaciones describen correctamente un aspecto de la persistencia de datos en sistemas de bases de datos?
+A)	La persistencia de datos es la capacidad de almacenar y recupera información.
+B)	La persistencia de datos solo es usada en bases de datos.
+C)	La persistencia de datos no es necesaria en sistemas modernos.
+D)	Todas las anteriores.
+ANSWER: A
+
+26.	¿Cuál de las siguientes opciones describe correctamente un enfoque común para la lectura y escritura de objetos en java?
+A)	Usar archivos de texto
+B)	Usar la serialización de objetos
+C)	Usar bases de datos.
+D)	Ninguna de las anteriores.
+ANSWER: B
+
+
+27.	¿Cuál de las siguientes afirmaciones describe correctamente una diferencia entre los arreglos y las colecciones en Java?
+A)	Los arreglos son objetos que pueden cambiar de tamaño dinámicamente, mientras que las colecciones tienen un tamaño fijo.
+B)	Los arreglos pueden contener elementos de diferentes tipos, mientras que las colecciones solo pueden contener elementos del mismo tipo.
+C)	Los arreglos pueden utilizar métodos de la clase Arrays para realizar operaciones como ordenamiento y búsqueda, mientras que las colecciones tienen sus propios métodos para estas operaciones.
+ANSWER: C
+
+28.	¿Cuál de las siguientes estructuras de datos en Java se utiliza típicamente para almacenar una colección de elementos de tamaño dinámico?
+A)	ArrayList
+B)	Arreglo estático
+C)	LinkedList
+D)	HashSet
+ANSWER: A
+
+29.	¿Cuál de las siguientes opciones describe correctamente un tipo de relación entre clases en programación orientada a objetos?
+A)	Herencia múltiple
+B)	Composición
+C)	Implementación
+D)	Sobreescritura. 
+ANSWER: A
+
+30.	¿Cuál de los siguientes conceptos se refiere a una relación entre clases en la que una clase implementa la funcionalidad definida en una interfaz?
+A)	Herencia
+B)	Composición
+C)	Agregación
+D)	Implementación
+ANSWER: D
+
+
+
+
+
+
+
+
+
+
+
+
